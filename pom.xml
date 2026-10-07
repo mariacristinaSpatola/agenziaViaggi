@@ -8,10 +8,10 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.epicode</groupId>
-	<artifactId>corso2spring</artifactId>
+	<groupId>it.eng</groupId>
+	<artifactId>agenziaViaggi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>corso2spring</name>
+	<name>agenziaViaggi</name>
 	<description/>
 	<url/>
 	<licenses>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>25</java.version>
+		<java.version>26</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
