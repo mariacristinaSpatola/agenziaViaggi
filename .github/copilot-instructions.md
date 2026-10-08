@@ -1,7 +1,7 @@
 # Progetto agenzia viaggi — istruzioni per Copilot
  
 ## Stack
-Java 26, Spring Boot 4, Maven, JUnit 5. Nessuna libreria oltre a quelle nel pom.
+Java 26, Spring Boot 4, Maven, JUnit 5. , swagger-ui Nessuna libreria oltre a quelle nel pom.
  
 ## Struttura
 controller/ parla HTTP e non contiene logica di business
